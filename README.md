@@ -1,5 +1,8 @@
 <h3 align="center">Hi 👋, I'm Andrea 😊 Welcome to my github!</h1>
 
+<h4 align="center">
+Currently, my portfolio is private.  
+For business inquiries, feel free to contact me via Linkedin.
 
 
 <!---
